@@ -1,0 +1,339 @@
+@media (max-width:800px){
+  .G img{
+    margin-top: 20px;
+    margin-left: 120px;
+  }
+
+  
+  
+  .G1{
+    display: flex;
+    gap: 45px;
+    margin-left: 54px;
+    margin-top: 18px;
+    font-size: 14px;
+  }
+  
+  .G1-class a{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .G1-class a:hover{
+    border-bottom: 2px solid red;
+    cursor: pointer;
+  }
+
+  .aerd img{
+   margin-top: 30px;
+  
+  }
+
+  .aerd h1{
+    border: 1px solid;
+    margin-top: -165px;
+    text-align: center;
+    position: relative;
+    color: white;
+    border: none;
+    font-size: 28px;
+  }
+
+  .aerd p{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+  }
+
+  .aerd h5{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+
+  .qwsa img{
+    margin-top: 90px;
+    margin-left: 18px;
+    box-shadow: 10px 10px blue;
+  }
+
+  .o1{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 21px;
+  }
+
+  .o1-class{
+    border: 2px solid greenyellow;
+    width: 69px;
+    margin-left: 123px;
+    margin-top: 10px;
+  }
+
+  .rwq-1 h4{
+    margin-top: 14px;
+    line-height: 14px;
+    font-size: 18px;
+    font-display: swap;
+  }
+
+  .rwq-1 h6{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 15px;
+    line-height: 16px;
+    margin-left: 15px;
+    margin-right: 10px;
+    font-variant: small-caps;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .G1b button{
+    margin-left: 69px;
+    margin-top: 20px;
+    padding: 15px;
+    color: white;
+    background-image: linear-gradient(blue ,greenyellow, red) ;
+    border-radius: 8px;
+  }
+
+  .G1b button:hover{
+    box-shadow: 10px 10px green;
+  }
+
+  .cew1{
+   margin-top: 20px;
+   margin-left: 37px;
+  }  
+
+
+.cew1 h2{
+    text-align: center;
+    margin-left: -32px;
+  }
+
+  .ve1{
+    border: 2px solid greenyellow;
+    width: 69px;
+    margin-left: 124px;
+    margin-top: 10px;
+  }
+
+  .res1 h6{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    font-size: 14px;
+  }
+
+  .f2w button{
+    margin-left: 109px;
+    margin-top: 20px;
+    padding: 15px;
+    color: white;
+    background-image: linear-gradient(blue ,greenyellow, red) ;
+    border-radius: 8px;
+  }
+
+  .f2w button:hover{
+    box-shadow: 10px 10px green;
+  }
+
+  .mmnb{
+    border: 1px solid;
+    border: none;
+    padding: 10px;
+    margin-top: 19px;
+    background-image: linear-gradient(blue, purple);
+  }
+
+  .mmnb h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 28px;
+    margin-right: 28px;
+    color: white;
+  }
+
+  .mmnb h3{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    margin-top: 20px;
+    color: white;
+  }
+
+  .mmnb button{
+    margin-left: 102px;
+    margin-top: 20px;
+    padding: 15px;
+    color: white;
+    background-color: red;
+    border-radius: 8px;
+  }
+  
+  .r3dr h2{
+    margin-top: 78px;
+    margin-left: 20px;
+    color: blue;
+    font-size: 19px;
+  }
+
+  .xewsw{
+    border: 2px solid;
+    width: 35%;
+    margin-left: 22px;
+    margin-top: 21px;
+    color: blueviolet;
+  }
+
+  .dcs h5{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+
+  .dcs p{
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 13px;
+  }
+
+  .contact-container{
+    margin-left: 13px;
+  }
+
+  .contact-left{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+  }
+
+  .contact-left-title hr{
+    border: none;
+    height: 5px;
+    background-color: blueviolet;
+  }
+
+  .contact-inputs{
+    width: 290px;
+    height: 36px;
+    border-radius: 50px;
+    padding-left: 25px;
+  }
+
+  .contact-left textarea{
+    height: 140px;
+    border-radius: 20px;
+  }
+
+  .contact-inputs:hover{
+    border: 2px solid #ff994f;
+  }
+
+  .contact-left button{
+    align-items: center;
+    padding: 10px 9px;
+    margin-left: 4px;
+    width: 90%;
+    font-size: 12px;
+    background-image: linear-gradient(270deg, #ff994f,#fa6d86);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    }
+
+
+  .qaw h1{
+    font-size: 22px;
+    color: blue;
+    margin-top: 87px;
+    margin-left: 19px;
+  }
+
+  .carsq{
+    border:  2px solid, blueviolet;
+    width: 50%;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+
+  .caxsqda{
+    margin-top: 34px;
+  }
+
+  .caxsqda P{
+   text-align: center;
+   margin-left: 10px;
+   margin-right: 10px;
+  }
+
+  .caxsqda h2{
+    font-size: 18px;
+    margin-top: 34px;
+    margin-left: 13px;
+  }
+
+  .caxsqda h3{
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+
+  .cdx{
+    display: flex;
+    gap: ;
+  }
+
+  .vcrt img{
+    margin-top: 129px;
+    margin-left: 10px;
+    margin-right: 18px;
+  }
+
+  .vcrt-1 img{
+    margin-top: 129px;
+    margin-left: -12px;
+  
+  }
+
+  .bgt img{
+   margin-top: 127px;
+   margin-left: 65px;
+  }
+
+   .wsaw{
+    display: flex;
+    gap: 65px;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: 18px;
+    color: burlywood;
+   }
+
+   .wsaw a{
+    color: chocolate;
+    text-decoration: none;
+   }
+
+   .fsdea{
+    border: 2px solid black;
+    margin-top: 40px;
+    background-color: black;
+   }
+
+   .fsdea h2{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+   }
+}
